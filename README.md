@@ -19,7 +19,7 @@ JavaFX Chromium Browser Basic Tutorial
 
 # Youtube Full Tutorial - Covering all the Setup and Basics
 
-
+[![Video](http://img.youtube.com/vi/1QOKpTjzePk/0.jpg)](https://www.youtube.com/watch?v=1QOKpTjzePk)
 
 
 ## About JXBrowser
